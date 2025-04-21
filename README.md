@@ -31,8 +31,7 @@
 ------
 
 ## Business & Ad-hoc Requests:
-
--[Business and Ad-hoc requests pdf]()     
+   
 -[SQL queries pdf]()       
 -[Results pdf]()
 
