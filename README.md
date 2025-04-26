@@ -3,7 +3,7 @@
 -[Project Objective](#project-objective)  
 -[Data Model](data-model)   
 -[Tools used & Methodologies implemented](#tools-used)          
--[Business & Ad-hoc Requests](#business-&-ad-hoc-requests)        
+-[Business and Ad-hoc Requests](#business-and-ad-hoc-requests)          
 -[Insights Deep Dive](#insights-deep-dive)   
 
 ### Project Objective
@@ -30,7 +30,7 @@
 
 ------
 
-## Business & Ad-hoc Requests:
+## Business and Ad-hoc Requests:
    
 - [SQL queries pdf](https://github.com/Sukrutha9/Instagram-Account-Analysis/blob/main/SQL%20queries.sql)          
 - [Results pdf](https://github.com/Sukrutha9/Instagram-Account-Analysis/blob/main/SQL%20Results.docx)
