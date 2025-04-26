@@ -42,9 +42,11 @@
  ### Post Category Performance:
 
   #### High Reach but Low Engagement:
+  
 	- Mobile and Tech Tips posts reached the most people but had lower Engagement (fewer likes,shares,comments)
 
   #### Low Reach but High Engagement:
+  
 	- Laptop and earphone posts reached fewer people but those posts got more Engagement 
 
 
