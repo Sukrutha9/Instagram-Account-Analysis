@@ -32,7 +32,7 @@
 
 ## Business and Ad-hoc Requests:
    
-- [SQL queries pdf](https://github.com/Sukrutha9/Instagram-Account-Analysis/blob/main/SQL%20queries.sql)          
+- [SQL queries pdf](http://github.com/Sukrutha9/Instagram-Account-Analysis/blob/main/sql%20queries.sql)          
 - [Results pdf](https://github.com/Sukrutha9/Instagram-Account-Analysis/blob/main/SQL%20Results.docx)
 
 
