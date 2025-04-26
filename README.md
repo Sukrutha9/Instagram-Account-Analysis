@@ -2,9 +2,9 @@
 
 -[Project Objective](#project-objective)  
 -[Data Model](data-model)   
--[Tools used & Methodologies implemented](#tools-used)       
--[Business & Ad-hoc Requests](#business-&-ad-hoc-requests)    
--[Insights Deep Dive](#Insights-Deep-Dive)
+-[Tools used & Methodologies implemented](#tools-used)          
+-[Business & Ad-hoc Requests](#business-&-ad-hoc-requests)        
+-[Insights Deep Dive](#insights-deep-dive)   
 
 ### Project Objective
 - Analysing Instagram content performance of one influencer Account to identify patterns, content and metrics that drives user engagement.
@@ -32,8 +32,8 @@
 
 ## Business & Ad-hoc Requests:
    
--[SQL queries pdf]()       
--[Results pdf]()
+- [SQL queries pdf]()          
+- [Results pdf](https://github.com/Sukrutha9/Instagram-Account-Analysis/blob/main/SQL%20Results.docx)
 
 
 
